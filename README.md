@@ -1,2 +1,2 @@
-# web_dynamic-mysql
-Database servers for Web_dynamic package
+# accelerator-prototype-3
+Application Accelerator Prototype 3
